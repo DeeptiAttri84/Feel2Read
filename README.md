@@ -107,8 +107,8 @@ The FEEL2READ application successfully demonstrates multimodal genre prediction 
 ### Local Setup
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/BookGenreClassification.git
-cd BookGenreClassification
+git clone https://github.com/DeeptiAttri84/Feel2Read.git
+cd Feel2Read
 ```
 2. Install dependencies:
 ```bash
@@ -116,7 +116,7 @@ pip install -r requirements.txt
 ```
 3. Run the Streamlit app:
 ```bash
-streamlit run dashboard/app.py
+streamlit run app.py
 ```
 
 ## 🎯 Applications
